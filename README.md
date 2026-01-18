@@ -25,16 +25,19 @@ Senior Data Engineer | AWS & Databricks Certified | Python | PySpark | Spark | S
 
 ## 🎤 Speaking & Community Engagement
 
-### Snowflake User Group - Coimbatore (October 2024)
-**Topic:** Apache Iceberg - Core Concepts & Best Practices
+### AWS Community Day Kochi 2025 (December 2025)
+**Topic:** From Lake to LLM: Building AI-Ready Data with Amazon S3 Tables
 
-Shared insights on Apache Iceberg covering core concepts and best practices from hands-on project experience. Discussed how Iceberg integrates with modern data platforms like Snowflake to build scalable, governed data lakes.
+Presented on how Amazon S3 Tables help build scalable, AI-ready data foundations for modern GenAI workloads, discussing strategies for preparing data lakes for LLM applications.
 
-<img src="./snowflake-usergroup.jpg" width="500" alt="Snowflake User Group Coimbatore">
+🎥 **Session Recording:** [Watch on YouTube](https://lnkd.in/gcmdkCu9)
+
+<img src="./aws-kochi-2.jpg" width="500" alt="AWS Community Day Kochi 2025">
+<img src="./aws-kochi.jpg" width="500" alt="AWS Community Day Kochi 2025">
 
 ---
 
-### Presidio India Exchange 2025 (November 2024)
+### Presidio India Exchange 2025 (November 2025)
 **Topic:** Modernizing Data Transformation Pipelines on AWS: From Complexity to Clarity
 
 Presented a tech talk on modernizing data transformation pipelines on AWS, focusing on bringing clarity and automation into data engineering workflows using cloud-native patterns, Airflow, and dbt.
@@ -47,15 +50,12 @@ Presented a tech talk on modernizing data transformation pipelines on AWS, focus
 
 ---
 
-### AWS Community Day Kochi 2025 (December 2024)
-**Topic:** From Lake to LLM: Building AI-Ready Data with Amazon S3 Tables
+### Snowflake User Group - Coimbatore (October 2025)
+**Topic:** Apache Iceberg - Core Concepts & Best Practices
 
-Presented on how Amazon S3 Tables help build scalable, AI-ready data foundations for modern GenAI workloads, discussing strategies for preparing data lakes for LLM applications.
+Shared insights on Apache Iceberg covering core concepts and best practices from hands-on project experience. Discussed how Iceberg integrates with modern data platforms like Snowflake to build scalable, governed data lakes.
 
-🎥 **Session Recording:** [Watch on YouTube](https://lnkd.in/gcmdkCu9)
-
-<img src="./aws-kochi-2.jpg" width="500" alt="AWS Community Day Kochi 2025">
-<img src="./aws-kochi.jpg" width="500" alt="AWS Community Day Kochi 2025">
+<img src="./snowflake-usergroup.jpg" width="500" alt="Snowflake User Group Coimbatore">
 
 ---
 
@@ -81,10 +81,10 @@ Exploring how to build AI-ready data foundations using Amazon S3 Tables and leve
 Year-end reflection covering certifications, GenAI hackathons, speaking engagements, training sessions, and community contributions throughout 2025.
 
 
-🔗 **[AWS Community Day Kochi 2025](https://www.linkedin.com/posts/sai-purushoth-0642871b7_awscommunityday-awscommunity-amazons3-activity-7409887295480332289-8B3V)**
+🔗 **[AWS Community Day Kochi](https://www.linkedin.com/posts/sai-purushoth-0642871b7_awscommunityday-awscommunity-amazons3-activity-7409887295480332289-8B3V)**
 Presented on building AI-ready data foundations with Amazon S3 Tables.
 
-🔗 **[Presidio India Exchange 2025](https://www.linkedin.com/posts/sai-purushoth-0642871b7_indiaexchange2025-activity-7396220562571812864-F7Qg)**
+🔗 **[Presidio India Exchange](https://www.linkedin.com/posts/sai-purushoth-0642871b7_indiaexchange2025-activity-7396220562571812864-F7Qg)**
 Tech talk on modernizing data transformation pipelines on AWS.
 
 🔗 **[Snowflake User Group - Coimbatore](https://www.linkedin.com/posts/sai-purushoth-0642871b7_snowflake-aiandanalytics-technicalcommunityevent-activity-7383041306467635200-GGFE)**
