@@ -41,7 +41,7 @@ Presented a tech talk on modernizing data transformation pipelines on AWS, focus
 
 📝 **Session Article:** [Read the full recap on Medium](https://lnkd.in/gdG7BuTf)
 
-<img src="./presidio-exchange-2.JPG" width="500" alt="Presidio India Exchange 2025">
+<img src="./presidio-excahnge-2.JPG" width="500" alt="Presidio India Exchange 2025">
 
 <img src="./presidio-exchange.jpg" width="500" alt="Presidio India Exchange 2025">
 
