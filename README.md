@@ -3,16 +3,21 @@
 Senior Data Engineer | AWS & Databricks Certified | Python | PySpark | Spark | SQL | Apache Iceberg | Delta Lake | Snowflake
 
 👋 Working Professional with over 3+ years of experience with a passion for cloud computing, data engineering, and building AI-powered solutions.
+
 🚀 I specialize in designing scalable data architectures, optimizing ETL pipelines, and building robust data solutions using tools like AWS Glue, Spark, Snowflake, and Databricks.
+
 🌟 My expertise includes leveraging AWS services, fine-tuning data workflows, and implementing data quality assessments in modern data platforms.
+
 🎤 I've delivered impactful data engineering solutions, automated infrastructure deployments, and have exposure to building GenAI applications on AWS.
+
 📈 Constantly learning and sharing knowledge, I aim to create impactful solutions that bridge technology and business needs.
+
 💬 Ask me about AWS Data Engineering, GenAI on AWS, Spark & PySpark, Apache Iceberg, Snowflake, Databricks, and Real-time Streaming
 
 ## 🎓 Certifications
 
 <a href="https://www.credly.com/badges/502a7b2b-940d-49a1-b51d-7d413d62a225/public_url" target="_blank">
-  <img src="https://www.credly.com/badges/502a7b2b-940d-49a1-b51d-7d413d62a225/public_url" alt="AWS Solutions Architect Associate" width="100"/>
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="100"/>
 </a>
 <a href="https://credentials.databricks.com/profile/gsaipurushoth7/wallet" target="_blank">
   <img src="https://images.credential.net/embed/ieusztkg_1761312907746.png" alt="Databricks Data Engineer Associate" width="100"/>
@@ -35,6 +40,8 @@ Shared insights on Apache Iceberg covering core concepts and best practices from
 Presented a tech talk on modernizing data transformation pipelines on AWS, focusing on bringing clarity and automation into data engineering workflows using cloud-native patterns, Airflow, and dbt.
 
 📝 **Session Article:** [Read the full recap on Medium](https://lnkd.in/gdG7BuTf)
+
+<img src="./presidio-exchange-2.jpg" width="500" alt="Presidio India Exchange 2025">
 
 <img src="./presidio-exchange.jpg" width="500" alt="Presidio India Exchange 2025">
 
