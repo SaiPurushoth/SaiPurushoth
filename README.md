@@ -30,7 +30,7 @@ Senior Data Engineer | AWS & Databricks Certified | Python | PySpark | Spark | S
 
 Presented on how Amazon S3 Tables help build scalable, AI-ready data foundations for modern GenAI workloads, discussing strategies for preparing data lakes for LLM applications.
 
-🎥 **Session Recording:** [Watch on YouTube](https://lnkd.in/gcmdkCu9)
+🎥 **Session Recording:** [Watch on YouTube](https://youtu.be/jAa19VaEcLo)
 
 <img src="./aws-kochi-2.jpg" width="500" alt="AWS Community Day Kochi 2025">
 <img src="./aws-kochi.jpg" width="500" alt="AWS Community Day Kochi 2025">
