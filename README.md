@@ -34,7 +34,7 @@ Presented on how Amazon S3 Tables help build scalable, AI-ready data foundations
 
 <img src="./aws-kochi-2.jpg" width="500" alt="AWS Community Day Kochi 2025">
 <img src="./aws-kochi.jpg" width="500" alt="AWS Community Day Kochi 2025">
-
+<img src="./aws-kochi-3.jpg" width="500" alt="AWS Community Day Kochi 2025">
 ---
 
 ### Presidio India Exchange 2025 (November 2025)
@@ -44,7 +44,9 @@ Presented a tech talk on modernizing data transformation pipelines on AWS, focus
 
 📝 **Session Article:** [Read the full recap on Medium](https://lnkd.in/gdG7BuTf)
 
-<img src="./presidio-excahnge-2.JPG" width="500" alt="Presidio India Exchange 2025">
+<img src="./presidio-exchange-3.jpeg" width="500" alt="Presidio India Exchange 2025">
+
+<img src="./presidio-exchange-2.jpg" width="500" alt="Presidio India Exchange 2025">
 
 <img src="./presidio-exchange.jpg" width="500" alt="Presidio India Exchange 2025">
 
