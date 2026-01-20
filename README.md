@@ -22,7 +22,7 @@ Senior Data Engineer | AWS & Databricks Certified | Python | PySpark | Spark | S
 <a href="https://images.credential.net/embed/ieusztkg_1761312907746.png" target="_blank">
   <img src="https://images.credential.net/embed/ieusztkg_1761312907746.png" alt="Databricks Data Engineer Associate" width="100"/>
 </a>
-<a href="https://credentials.databricks.com/profile/gsaipurushoth7/wallet" target="_blank">
+<a href="https://drive.google.com/file/d/15fYtr8tGJrb3b_kIvURkBtG-iQnA1SCZ/view" target="_blank">
   <img src="https://drive.google.com/file/d/15fYtr8tGJrb3b_kIvURkBtG-iQnA1SCZ/view" alt="Gen AI Innovation Center" width="100"/>
 </a>
 
