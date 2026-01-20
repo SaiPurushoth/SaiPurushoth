@@ -25,7 +25,7 @@ Senior Data Engineer | AWS & Databricks Certified | Python | PySpark | Spark | S
 <a href="https://drive.google.com/file/d/15fYtr8tGJrb3b_kIvURkBtG-iQnA1SCZ/view" target="_blank">
   <img src="https://drive.google.com/file/d/15fYtr8tGJrb3b_kIvURkBtG-iQnA1SCZ/view" alt="Gen AI Innovation Center" width="100"/>
 </a>
-
+<img src="./GenAi-Certification.png" width="350"/>
 ## 🎤 Speaking & Community Engagement
 
 ### AWS Community Day Kochi 2025 (December 2025)
