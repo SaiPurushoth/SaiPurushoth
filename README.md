@@ -23,6 +23,7 @@ Senior Data Engineer | AWS & Databricks Certified | Python | PySpark | Spark | S
   <img src="https://images.credential.net/embed/ieusztkg_1761312907746.png" alt="Databricks Data Engineer Associate" width="100"/>
 </a>
 <img src="./GenAi-Certification.png" width="250"/>
+
 ## 🎤 Speaking & Community Engagement
 
 ### AWS Community Day Kochi 2025 (December 2025)
