@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Sai Purushoth,
 
-Senior Data Engineer | AWS & Databricks Certified | Python | PySpark | Spark | SQL | Apache Iceberg | Delta Lake | Snowflake
+Senior Data Engineer | AWS Community Builder | AWS & Databricks Certified | Python | PySpark | Spark | SQL | Apache Iceberg | Delta Lake | Snowflake
 
 👋 Working Professional with over 3+ years of experience with a passion for cloud computing, data engineering, and building AI-powered solutions.
 
